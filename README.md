@@ -1,2 +1,2 @@
-# the-ducks-code.github.io
+# The Duck
 quack quack
