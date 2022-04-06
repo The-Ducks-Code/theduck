@@ -1,5 +1,5 @@
-title: Mesa Complex
+title: The uck
 markdown: kramdown
-url: "https://mesacomplex.tk" # the base hostname & protocol for your site
+url: "https://theduck.tk" # the base hostname & protocol for your site
 plugins:
   - jekyll-sitemap
